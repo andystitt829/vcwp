@@ -1,0 +1,18 @@
+/*
+Theme Name: VCWP
+Theme URI: https://github.com/andystitt829/vcwp
+Author: Andy Stitt 
+Author URI: https://andystitt.dev
+Description: Custom WordPress theme using Bootstrap built as a demo for the Virtual Coffee brownbag.
+Version: 1.0
+Tags: Bootstrap
+Text Domain: vcwp
+*/
+
+body {
+    background: #fff;
+}
+
+footer li a {
+    color: #fff;
+}
