@@ -33,7 +33,7 @@ function bootstrap_responsive_images( $html ){
     } else {
         $html = preg_replace('/(<img.*?)(\/>)/', '$1 class="' . $classes . '" $2', $html);
     }
-    // remove dimensions from images,, does not need it!
+    // remove dimensions from images, does not need it!
     $html = preg_replace( '/(width|height)=\"\d*\"\s/', "", $html );
     return $html;
 }
