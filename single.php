@@ -16,6 +16,7 @@
           } 
         ?>
         <?php the_content(); ?>
+        <p class="mt-4"><?php the_tags('Tags:&nbsp;&nbsp;'); ?></p><br />
         <?php endwhile; else: ?>
         <p><?php _e('Sorry, this page does not exist.'); ?></p>
       <?php endif; ?>
