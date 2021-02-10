@@ -1,3 +1,7 @@
-# VCWP
+# VCWP - A WordPress theme for Virtual Coffee
 
-This is the readme file for VCWP, a simple WordPress theme using Bootstrap 4 for the Virtual Coffee group.
+VCWP is a starter WordPress theme for the Virtual Coffee brownbag. It is built with HTML, CSS, Bootstrap, and PHP.
+
+VCWP is kept intentionally minimal so you can focus in on the fewest amount of features needed to be an active, working WordPress theme.
+
+## Installing VCWP
