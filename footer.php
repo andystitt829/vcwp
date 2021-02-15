@@ -22,14 +22,7 @@
                 ?>
             </div>
             <div class="col-md-4">
-                <?php
-                    wp_nav_menu( array(
-                        'theme_location'    => 'footer-column-1',
-                        'depth'             => 1,
-                        'container'         => 'div',
-                        'menu_class'        => 'nav navbar-nav',
-                    ) );
-                ?>
+                <p>Copyright and other information.</p>
             </div>
         </div>
     </div>
